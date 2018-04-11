@@ -10,4 +10,4 @@ You can clone or fork this repo, have fun!
 - Client Build: `yarn build`
 - Server Build: `yarn run build-server`
 - Client Development: `yarn run dev `
-- Server Development: `yarn run dev-server`
+- Server Development: `yarn run dev-server`# sans-resto
